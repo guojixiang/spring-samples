@@ -13,6 +13,7 @@
     <module>spring-websocket-sample</module>
     <module>spring-samples-core</module>
     <module>spring-samples-common</module>
+    <module>dynamic-invoke</module>
   </modules>
 
   <dependencyManagement>
